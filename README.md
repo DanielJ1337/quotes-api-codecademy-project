@@ -5,11 +5,10 @@ I learned the syntax of Node and what it is capable of.
 
 ## How to use the API
 
-Since it is a really simple project, the API is not that complicated to use at all. You can just clone the repository and start listening on ```localhost```.
-There you can show quotes from different creators or show all quotes that are saved in ```data.js```which represents an array that holds the quotes.
-
+Since it is a really simple project, the API is not that complicated to use at all. You can just clone the repository and start a server on ```localhost```.
 You can also find a deployed version on [Heroku](https://quotes-api-codecademy.herokuapp.com/).
 
+There you can show quotes from different creators or show all quotes that are saved in ```data.js```which represents an array that holds the quotes.
 You can also add new quotes and authors. 
 
 I am planning on updating the API with other functionality since it is a nice exercise to really grasp all the capability and the easy syntax of noce.
